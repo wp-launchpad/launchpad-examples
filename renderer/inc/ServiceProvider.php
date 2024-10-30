@@ -12,6 +12,6 @@ class ServiceProvider extends AbstractServiceProvider {
 	 * @return void
 	 */
 	protected function define() {
-		// Add your services.
+		$this->register_admin_subscriber(Subscriber::class);
 	}
 }
