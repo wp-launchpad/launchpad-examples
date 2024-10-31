@@ -1,0 +1,9 @@
+.idea
+vendor
+vendor-prefixed
+inc/Dependencies/*
+inc/classes/*
+build
+node_modules
+composer.lock
+package-lock.json
