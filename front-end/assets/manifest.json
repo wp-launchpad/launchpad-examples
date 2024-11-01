@@ -1,0 +1,7 @@
+{
+  "app.css": "css/app.css",
+  "app.js": "js/app.js",
+  "admin.js": "js/admin.js",
+  "runtime.js": "js/runtime.js",
+  "entrypoints.json": "entrypoints.json"
+}

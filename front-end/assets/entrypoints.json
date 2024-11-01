@@ -1,0 +1,17 @@
+{
+  "app": {
+    "js": [
+      "js/runtime.js",
+      "js/app.js"
+    ],
+    "css": [
+      "css/app.css"
+    ]
+  },
+  "admin": {
+    "js": [
+      "js/runtime.js",
+      "js/admin.js"
+    ]
+  }
+}

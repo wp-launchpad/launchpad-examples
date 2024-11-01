@@ -12,7 +12,11 @@ module.exports = async bud => {
     await bud
         .setPath('@dist', '../assets')
         .entry({
-            app: 'app.js',
+            app: [
+                'app.js',
+                'app.css',
+            ],
+            admin: 'admin.js'
         })
         .when( bud.isProduction, () => bud.splitChunks().minimize() )
 }

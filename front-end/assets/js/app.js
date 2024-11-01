@@ -1,0 +1,1 @@
+(self.webpackChunk_roots_bud=self.webpackChunk_roots_bud||[]).push([[524],{"./app.css":()=>{},"./app.js":()=>{}},s=>{var p=p=>s(s.s=p);p("./app.js"),p("./app.css")}]);

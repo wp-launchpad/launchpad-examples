@@ -1,7 +1,6 @@
 {
   "name": "launchpad-front",
   "version": "1.0.0",
-  "dependencies": {},
   "browserslist": {
     "production": [
       ">0.5%",
@@ -21,7 +20,6 @@
   },
   "devDependencies": {
     "-": "0.0.1",
-    "@roots/bud": "^6.11.0",
-    "caniuse-lite": "^1.0.30001464"
+    "@roots/bud": "^6.11.0"
   }
 }
