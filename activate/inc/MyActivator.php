@@ -12,6 +12,6 @@ class MyActivator implements PrefixAwareInterface {
 	 * @activate
 	 */
 	public function register_options() {
-		update_option("{$this->prefix}_my_option", true);
+		update_option("{$this->prefix}my_option", true);
 	}
 }

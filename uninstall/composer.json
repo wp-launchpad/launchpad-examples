@@ -34,7 +34,7 @@
     "require": {
         "php": ">=7.0",
         "composer/installers": "^1.0 || ^2.0",
-        "wp-launchpad/uninstaller-take-off": "^0.1.0"
+        "wp-launchpad/uninstaller-take-off": "^3.1"
     },
     "require-dev": {
         "php": "^7 || ^8",
@@ -46,14 +46,14 @@
         "phpunit/phpunit": "^7.5 || ^8 || ^9",
         "roave/security-advisories": "dev-master",
         "wp-coding-standards/wpcs": "^2",
-        "wp-launchpad/build": "^0.0",
-        "wp-launchpad/cli": "^1.0",
-        "wp-launchpad/cli-installer": "^0.0",
-        "wp-launchpad/core": "^v0.3.0",
-        "wp-launchpad/launchpad-phpstan": "^0.0",
-        "wp-launchpad/take-off": "^1.0",
+        "wp-launchpad/build": "^3.1",
+        "wp-launchpad/cli": "^3.1.",
+        "wp-launchpad/cli-installer": "^3.1",
+        "wp-launchpad/core": "^3.1",
+        "wp-launchpad/launchpad-phpstan": "^3.1",
+        "wp-launchpad/take-off": "^3.1",
         "wp-media/phpunit": "^3.0",
-        "wp-launchpad/uninstaller": "^0.1"
+        "wp-launchpad/uninstaller": "^3.1"
     },
     "autoload": {
         "psr-4": {
